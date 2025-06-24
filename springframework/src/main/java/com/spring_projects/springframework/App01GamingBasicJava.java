@@ -5,7 +5,7 @@ import com.spring_projects.springframework.game.MarioGame;
 import com.spring_projects.springframework.game.PacManGame;
 import com.spring_projects.springframework.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
