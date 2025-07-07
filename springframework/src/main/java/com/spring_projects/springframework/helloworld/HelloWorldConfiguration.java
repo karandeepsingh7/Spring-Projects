@@ -1,4 +1,4 @@
-package com.spring_projects.springframework;
+package com.spring_projects.springframework.helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
